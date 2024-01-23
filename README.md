@@ -1,2 +1,3 @@
 # github-demo
-This is just demo <br> author: Rohan Karanjit
+This is just demo <br> 
+author: Rohan Karanjit(Rohan Kjit)
